@@ -17,3 +17,4 @@ UI source codes can be found here: https://github.com/EthereumCommonwealth/Dex22
 
 # Listing a token to the default token list
 
+In order to apply for listing on Dex223 default token list navigate to the [issues section of this repo](https://github.com/EthereumCommonwealth/Dex223-listings/issues) and open a new issue. 
